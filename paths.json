@@ -1,16 +1,16 @@
 {
   "mappings": [
-    "/content/wkndunitest/language-masters/en:/",
-    "/content/wkndunitest/language-masters/en/:/",
-    "/content/wkndunitest/language-masters/en/:/en/",
-    "/content/wkndunitest/configuration:/.helix/config.json",
-    "/content/wkndunitest/metadata:/metadata.json",
-    "/content/wkndunitest/redirects:/redirects.json",
-    "/content/wkndunitest/placeholders:/placeholders.json",
-    "/content/wkndunitest.resource/language-masters/en/query-index.json:/en/query-index.json"
+    "/content/wknd-test/language-masters/en:/",
+    "/content/wknd-test/language-masters/en/:/",
+    "/content/wknd-test/language-masters/en/:/en/",
+    "/content/wknd-test/configuration:/.helix/config.json",
+    "/content/wknd-test/metadata:/metadata.json",
+    "/content/wknd-test/redirects:/redirects.json",
+    "/content/wknd-test/placeholders:/placeholders.json",
+    "/content/wknd-test.resource/language-masters/en/query-index.json:/en/query-index.json"
   ],
   "includes": [
-    "/content/wkndunitest/",
-    "/content/dam/wkndunitest/"
+    "/content/wknd-test/",
+    "/content/dam/wknd-test/"
   ]
 }
